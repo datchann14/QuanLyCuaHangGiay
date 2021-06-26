@@ -181,7 +181,9 @@
             this.label2.TabIndex = 4;
             this.label2.Text = "Thống kê doanh thu";
             // 
-            // DoangThu
+            // DoangThu = so luong * don hang
+            // 
+
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
