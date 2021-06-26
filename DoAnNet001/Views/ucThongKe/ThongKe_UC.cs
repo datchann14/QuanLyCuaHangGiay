@@ -68,7 +68,7 @@ namespace DoAnNet001.Views.ucThongKe
             }
             catch (Exception)
             {
-
+                //Thong ke hang thang
                 MessageBox.Show("Bạn chưa nhập tháng");
             }
             

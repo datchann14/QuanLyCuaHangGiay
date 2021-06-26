@@ -45,6 +45,7 @@ namespace DoAnNet001
         }
         private void Index_Load(object sender, EventArgs e)
         {
+            //form index
             index = this;
             ucheThong ucDangNhap = new ucheThong();
             ucDangNhap.Dock = DockStyle.Fill;
